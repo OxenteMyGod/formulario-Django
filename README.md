@@ -1,5 +1,6 @@
 # formulario-Django
-Começando edição de formulário em Django 
+Começando edição de formulário em Django
+
 {% extends "base.html" %}
 {% load static %}
 {% block content %}
